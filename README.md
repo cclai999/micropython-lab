@@ -9,5 +9,7 @@
 * potentiometer_led.py: 利用可變電阻控制LED明亮.
 * remote_contorl_via_mqtt.py 利用 mqtt protocol 遠端控制 LED 明亮
 
+slides: http://www.slideshare.net/maxcclai/micropython-69547795
+
 Max Lai
 
